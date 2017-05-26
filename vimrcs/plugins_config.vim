@@ -177,3 +177,6 @@ nnoremap <silent> <leader>d :GitGutterToggle<cr>
 " => Tagbar
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 nmap <F8> :TagbarToggle<CR>
+
+"""""Fix PasteStart PasteEnd issue
+set t_BE= 
