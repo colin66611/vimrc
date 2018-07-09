@@ -31,7 +31,7 @@ let s:ack_mappings = {
       \ "T": "<C-W><CR><C-W>TgT<C-W>j",
       \ "o": "<CR>",
       \ "O": "<CR><C-W>p<C-W>c",
-      \ "go": "<CR><C-W>p",
+      \ "go": "<CR><C-W>j",
       \ "h": "<C-W><CR><C-W>K",
       \ "H": "<C-W><CR><C-W>K<C-W>b",
       \ "v": "<C-W><CR><C-W>H<C-W>b<C-W>J<C-W>t",
